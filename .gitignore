@@ -1,0 +1,9 @@
+parser_OLD_KEY.py
+.env
+*.session
+*.session-journal
+__pycache__/
+*.pyc
+venv/
+.venv/
+*.log
