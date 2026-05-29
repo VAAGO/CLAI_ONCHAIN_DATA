@@ -31,3 +31,14 @@ Time: 2026-05-18 23:45:35 UTC
 
 View on Arkham | View on Etherscan | Pause Alert
 ────────────────────────────────────────────────────────────
+
+[2026-05-29 10:01:09]
+LINK TRANS FROM WINBINDEP TO BINHOT 
+From: Wintermute: Binance Deposit (0xEae)
+To: [CUSTOM] CHLINHOLD1: Hot Wallet (0x28C)
+Value: 23,693.000000 ChainLink Token ($227,452.80)
+Network: Ethereum
+Time: 2026-05-19 00:17:23 UTC
+
+View on Arkham | View on Etherscan | Pause Alert
+────────────────────────────────────────────────────────────
