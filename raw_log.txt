@@ -295,3 +295,25 @@ Time: 2026-06-01 04:02:59 UTC
 
 View on Arkham | View on Etherscan | Pause Alert
 ────────────────────────────────────────────────────────────
+
+[2026-06-01 18:03:16]
+FROM BINANCE DEPOSIT 
+From: Binance Deposit (0xa9C)
+To: [CUSTOM] CHLINHOLD1: Hot Wallet (0x28C)
+Value: 19,403.202682 ChainLink Token ($177,345.27)
+Network: Ethereum
+Time: 2026-06-01 00:12:59 UTC
+
+View on Arkham | View on Etherscan | Pause Alert
+────────────────────────────────────────────────────────────
+
+[2026-06-01 18:14:21]
+FROM MM 
+From: Wintermute: Market Maker (0x51C)
+To: Wintermute: Binance Deposit (0xEae)
+Value: 22,805.000000 ChainLink Token ($210,262.10)
+Network: Ethereum
+Time: 2026-05-31 13:20:23 UTC
+
+View on Arkham | View on Etherscan | Pause Alert
+────────────────────────────────────────────────────────────
