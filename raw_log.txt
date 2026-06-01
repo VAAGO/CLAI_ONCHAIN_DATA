@@ -218,3 +218,14 @@ Time: 2026-05-30 00:38:47 UTC
 
 View on Arkham | View on Etherscan | Pause Alert
 ────────────────────────────────────────────────────────────
+
+[2026-06-01 15:31:48]
+FROM MM 
+From: Wintermute: Market Maker (0x51C)
+To: Wintermute: Binance Deposit (0xEae)
+Value: 23,072.000000 ChainLink Token ($211,108.80)
+Network: Ethereum
+Time: 2026-05-31 23:04:23 UTC
+
+View on Arkham | View on Etherscan | Pause Alert
+────────────────────────────────────────────────────────────
