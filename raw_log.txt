@@ -251,3 +251,14 @@ Time: 2026-06-01 15:00:11 UTC
 
 View on Arkham | View on Etherscan | Pause Alert
 ────────────────────────────────────────────────────────────
+
+[2026-06-01 17:57:13]
+FROM BINANCE DEPOSIT 
+From: Binance Deposit (0xa9C)
+To: [CUSTOM] CHLINHOLD1: Hot Wallet (0x28C)
+Value: 19,403.202682 ChainLink Token ($177,345.27)
+Network: Ethereum
+Time: 2026-06-01 00:12:59 UTC
+
+View on Arkham | View on Etherscan | Pause Alert
+────────────────────────────────────────────────────────────
