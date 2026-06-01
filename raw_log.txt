@@ -273,3 +273,25 @@ Time: 2026-06-01 04:00:23 UTC
 
 View on Arkham | View on Etherscan | Pause Alert
 ────────────────────────────────────────────────────────────
+
+[2026-06-01 17:59:50]
+FROM MM 
+From: Wintermute: Market Maker (0x51C)
+To: Wintermute: Binance Deposit (0xEae)
+Value: 23,159.000000 ChainLink Token ($212,136.44)
+Network: Ethereum
+Time: 2026-06-01 04:00:23 UTC
+
+View on Arkham | View on Etherscan | Pause Alert
+────────────────────────────────────────────────────────────
+
+[2026-06-01 17:59:50]
+LINK TRANS FROM WINBINDEP TO BINHOT 
+From: Wintermute: Binance Deposit (0xEae)
+To: [CUSTOM] CHLINHOLD1: Hot Wallet (0x28C)
+Value: 23,159.000000 ChainLink Token ($212,368.03)
+Network: Ethereum
+Time: 2026-06-01 04:02:59 UTC
+
+View on Arkham | View on Etherscan | Pause Alert
+────────────────────────────────────────────────────────────
